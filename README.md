@@ -1,6 +1,9 @@
 # Projects
 Project (or idea) summary
 
+## System verilog (idea)
+ * add wiki about System verilog tips 
+
 ## Computing checker(idea)
 Check computing result easily with simple interface
  * input: manual, csv
