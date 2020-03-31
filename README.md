@@ -1,6 +1,9 @@
 # Projects
-Project (or idea) summary
+Working Project (or idea) summary
 
+## Touch Mouse Device (idea)
+ * create mouse device with 2.8" tft lcd touch panel module 
+ 
 ## System verilog (idea)
  * add wiki about System verilog tips 
 
