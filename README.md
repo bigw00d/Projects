@@ -1,8 +1,11 @@
 # Projects
 Working Project (or idea) summary
 
+## Simple 音声 Generator (idea)
+ * create voice with simple use 
+ 
 ## いらすとや Generator (idea)
- * create image with 
+ * create image with ML
  
 ## Touch Mouse Device (idea)
  * create mouse device with 2.8" tft lcd touch panel module 
